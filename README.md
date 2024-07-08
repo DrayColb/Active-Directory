@@ -13,7 +13,7 @@ This project is a demonstration in active directory for creating new organizatio
 
 <p align="center">
 Player Movement Script: <br/>
-<img width="585" alt="Screenshot2" src="https://github.com/DrayColb/DrayColb1/assets/159193252/c8682377-ce9b-4a98-be33-f852699cabac">
+<img ![AD2](https://github.com/DrayColb/Active-Directory/assets/159193252/040e10df-dc6d-48d3-b6c1-72d69bb88163) >
 <img width="547" alt="Screenshot4" src="https://github.com/DrayColb/DrayColb1/assets/159193252/b35da79a-0843-40d0-b524-572f9097ea84">
 <br/>
 On Collision Script:  <br/>
