@@ -5,16 +5,15 @@ This project is a demonstration in active directory for creating new organizatio
 <br />
 
 
-<h2>Environments Used </h2>
+<h3> Here I will create a Students OU under the THM OU. </h3>
 
-- <b> Visual Studio </b> 
-
-<h2>Program walk-through:</h2>
+![AD2](https://github.com/DrayColb/Active-Directory/assets/159193252/2d582a3a-2c1f-4f63-9852-5d245cda2c1b)
+![AD1](https://github.com/DrayColb/Active-Directory/assets/159193252/963c7246-b5f7-412b-ba70-93941655ea7b)
 
 <p align="center">
 Player Movement Script: <br/>
-<img ![AD2](https://github.com/DrayColb/Active-Directory/assets/159193252/040e10df-dc6d-48d3-b6c1-72d69bb88163) >
-<img width="547" alt="Screenshot4" src="https://github.com/DrayColb/DrayColb1/assets/159193252/b35da79a-0843-40d0-b524-572f9097ea84">
+ 
+
 <br/>
 On Collision Script:  <br/>
 <img width="535" alt="Screenshot5" src="https://github.com/DrayColb/DrayColb1/assets/159193252/67b583e0-0f7e-4dfb-b1ee-98e40b22b07e">
