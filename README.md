@@ -1,7 +1,7 @@
 <h1>Active Directory</h1>
 
 <h2>Description</h2>
-This project is a demonstration in active directory for creating new organizational units, delegating control for password reset , changing password policies, and creating a group policy object for restricting access.
+This project is a demonstration of basic active directory functionality by creating new organizational units, delegating control for password reset , changing password policies, and creating a group policy object for restricting access.
 <br />
 
 
