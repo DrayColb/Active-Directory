@@ -16,7 +16,7 @@ This project is a demonstration in active directory for creating new organizatio
 
 
 
-<h2> Here I will be giving password reset power of the Sales department to Phillip </h2>
+<h2> Here I will be giving password reset power of the Sales department to Phillip by selecting Delegate Control. </h2>
 
 ![AD3](https://github.com/DrayColb/Active-Directory/assets/159193252/a97f006b-7ca5-41d5-8823-7129fd1294c3)
 ![AD4](https://github.com/DrayColb/Active-Directory/assets/159193252/afd7307f-c9dd-4ee2-9231-6ee65984c789)
@@ -35,11 +35,14 @@ This project is a demonstration in active directory for creating new organizatio
 ![AD23](https://github.com/DrayColb/Active-Directory/assets/159193252/99abda63-0f9f-4dfc-954a-a2a1193e8791)
 
 
-<h2> Finally I will be </h2>
+<h2> Here I navigate to Group Policy Management and I will change the minimum password length from 7 to 10. </h2>
 
 ![AD10](https://github.com/DrayColb/Active-Directory/assets/159193252/e7700bd4-b1a3-4be9-8bfe-5f7d83bfbf60)
 ![AD11](https://github.com/DrayColb/Active-Directory/assets/159193252/a620d03e-8e1b-4dc0-bdcd-7bb1df9213c6)
 ![AD12](https://github.com/DrayColb/Active-Directory/assets/159193252/3ddf671b-69e6-4e11-b06a-b22cfacae4dc)
+
+<h2> Finally I will restrict Conrol Panel access to only the IT department </h2>
+
 ![AD13](https://github.com/DrayColb/Active-Directory/assets/159193252/f56c0271-5ed6-483e-99f5-8e5682d5ec0b)
 ![AD14](https://github.com/DrayColb/Active-Directory/assets/159193252/64a773dd-17d6-41bb-a07e-43306c29b5ff)
 
